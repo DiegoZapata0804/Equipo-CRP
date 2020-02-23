@@ -13,11 +13,8 @@ Trabajos a realizar:
 
 ### Responsables/Estado:
 **Taller 1:** Pendiente   
-**Taller 2:** Melissa y Diego / 0%
-
-**Taller 3:** Melissa y Diego / 0%
-
-**Taller 4:** Pendiente
-
+**Taller 2:** Melissa y Diego / 0%    
+**Taller 3:** Melissa y Diego / 0%    
+**Taller 4:** Pendiente   
 **Trabajo :** Todos / 10%
 
